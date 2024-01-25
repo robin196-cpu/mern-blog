@@ -26,3 +26,7 @@ dist-ssr
 
 # Contentlayer
 .contentlayer
+
+.env
+
+/mern-blog-details.txt
